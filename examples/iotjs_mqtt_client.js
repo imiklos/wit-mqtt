@@ -4,7 +4,7 @@ var mqtt = require('mqtt');
 var opts = {
   port: 4444,
   keepalive: 1000,
-  clientId: 'mqtt_bela',
+  clientId: 'mqtt_client',
   host: '127.0.0.1'
 }
 
